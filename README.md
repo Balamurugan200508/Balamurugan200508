@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Analyst (Fresher)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+;Pyhton+%7C+Pandas+%7C+Tableau+%7C+Power+BI+;Data+Visualization+%26+;Actively+Looking+for+Fresher+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+;Pyhton+%7C+Pandas+%7C+Tableau+%7C+Power+BI+;Data+Visualization+%26+Actively+Looking+for+Fresher+Opportunities" />
 </p>
 
 <p align="center">
