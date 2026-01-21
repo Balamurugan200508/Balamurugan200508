@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/balamurugan007-947a6031b">
+  <a href="https://www.linkedin.com/in/BALA MURUGAN-S-947a6031b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/athish2005">
