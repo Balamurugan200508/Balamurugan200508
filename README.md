@@ -1,139 +1,148 @@
 <h1 align="center">Hi 👋, I'm Balamurugan S</h1>
-<h3 align="center">🚀 Data Analyst (Fresher)</h3>
+<h3 align="center">🚀 AI & Data Science Engineer | Software Developer (Fresher)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+;Pyhton+%7C+Pandas+%7C+Tableau+%7C+Power+BI+;Data+Visualization;Actively+Looking+for+Fresher+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineer;Python+%7C+Machine+Learning+%7C+FastAPI;AI-Powered+Application+Developer;Actively+Seeking+Fresher+Opportunities" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/BALA MURUGAN-S-947a6031b">
+  <a href="https://www.linkedin.com/in/balamurugan007">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/athish2005">
+  <a href="https://github.com/Balamurugan200508">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:balamuruang.suresh2015@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:balamurugansuresh2015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athish2005&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Balamurugan200508&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 *BCA Graduate (2025)* from Bishop Heber College, Tiruchirappalli
-* 💻 Passionate about *Java Full Stack Development*
-* 🔐 Experienced in *Spring Security, JWT Authentication*
-* 🧪 Strong in *JUnit & Mockito testing*
-* 🌱 Always learning and improving through real-world projects
+* 🎓 **B.Tech in Artificial Intelligence & Data Science (2022–2026)**  
+  Karpagam Institute of Technology | **CGPA: 7.5**
+* 💡 Dedicated **Software Developer** with strong interest in **AI & ML**
+* 🤖 Hands-on experience building **AI-powered tools & chatbots**
+* 🧠 Strong foundation in **Machine Learning & Data Analysis**
+* 🌱 Actively learning and applying skills through real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,bootstrap,mysql,mongodb,git,github,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,html,css,js,react,mysql,mongodb,git,github,fastapi" />
 </p>
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
+* Python
+* Java (Intermediate)
 
-* Java, JavaScript
+### ⚙️ Backend & AI
+* FastAPI
+* Machine Learning
+* LangChain
+* RAG Pipelines
+* LLaMA Models
 
-### ⚙️ Backend
-
-* Spring Boot
-* Spring Security
-* REST APIs
-* JWT Authentication
-* Spring Exception Handling
-
-### 🎨 Frontend
-
+### 🎨 Frontend & UI
 * HTML, CSS, JavaScript
-* Bootstrap
-* Thymeleaf
+* React.js
+* Chrome Extension (Manifest V3)
 
 ### 🗄️ Databases
-
 * MySQL
 * MongoDB
-* PostgreSQL
+* ChromaDB
 
-### 🧪 Testing
+### 🔧 Tools & Platforms
+* Git & GitHub
+* Google Gemini AI
+* AI Studio API
+* VS Code
 
-* JUnit
-* Mockito
-
-### 🔧 Tools
-
-* Git, GitHub
-* Postman, Swagger
-* Maven
-* VS Code, Eclipse
+### 🤝 Soft Skills
+* Leadership
+* Adaptability
+* Strategic Thinking
 
 ---
 
 ## 📂 Projects
 
-### 🏠 Real Estate Listing Platform
-
-* Full-stack real estate application built using *Spring Boot* and *MySQL*
-* Secure login and signup using *JWT authentication*
-* Property listing with filters and detailed view including owner Gmail contact
-* Image upload and management using *Cloudinary*
-* Unit tested using *JUnit and Mockito*
-
----
-
-### 📝 Online Quiz Application
-
-* Quiz application with *role-based access control*
-* REST APIs with Spring Boot and frontend using *Thymeleaf*
-* Automated welcome and result emails using *JavaMail API*
-* Tested business logic using *JUnit and Mockito*
+### 🤖 InsuraAI – AI Powered Insurance Chatbot
+* Built an **AI-powered chatbot** using **React.js** with Speech-to-Text & Text-to-Speech
+* Developed scalable backend services using **FastAPI**
+* Implemented **LangChain + ChromaDB** for document retrieval
+* Integrated **RAG pipeline** using **LLaMA 3.2** for context-aware responses
+* Worked in an **Agile environment** with sprint planning and code reviews
 
 ---
 
-### 🏨 Hotel Booking System
+### 🧠 AI Smart Notes – Chrome Extension
+* Developed an **AI-powered Chrome extension** using JavaScript, HTML, CSS & Manifest V3
+* Integrated **Google Gemini AI & AI Studio API**
+* Implemented right-click text capture with local storage & text export
+* Improved user comprehension by **~70%**
 
-* Hotel booking system with filtering and booking flow
-* Check-in and check-out based booking system
-* Dummy payment integration using *Stripe*
-* Backend testing using *JUnit and Mockito*
+---
+
+## 🏢 Experience
+
+### 📊 Praya Labs – Data Science Intern
+* Performed **data analysis, cleaning, and modeling**
+* Applied **Python & ML techniques** for real-world data challenges
+* Supported insight-driven decision making
 
 ---
 
 ## 🎓 Education
 
-* *Bachelor of Computer Applications (BCA)*
-  Bishop Heber College, Tiruchirappalli
-  *Year:* 2025 
+* **B.Tech – Artificial Intelligence & Data Science**  
+  Karpagam Institute of Technology (2022–2026)
+
+* **Higher Secondary Education**  
+  Bharani Park Matriculation Higher Secondary School – 68%
+
+* **Secondary Schooling**  
+  Bharani Park Matriculation Higher Secondary School – 70%
 
 ---
 
-## 📜 Certification
+## 📜 Certifications
 
-* *Certified Java Full-Stack Developer* – GIVI HCL
-
+* 🏅 **Elite NPTEL Certification – Cloud Computing**  
+  IIT Kharagpur
+* 📘 **Machine Learning Foundations** – Infosys Springboard
 
 ---
 
-## 📊 GitHub Status
+## 🏆 Achievements & Activities
+
+* 🥇 Awarded **Elite NPTEL Certificate**
+* 💡 Actively participated in **Walmart Hackathon**
+* 🇮🇳 Contributor in **Smart India Hackathon**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athish2005&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balamurugan200508&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athish2005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balamurugan200508" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athish2005&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan200508&layout=compact" />
 </p>
 
 ---
@@ -141,14 +150,17 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athish2005&bg_color=ffffff&color=000000&line=36BCF7&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balamurugan200508&bg_color=ffffff&color=000000&line=36BCF7&point=000000&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/athishkumaran-r-m-947a6031b](https://www.linkedin.com/in/athishkumaran-r-m-947a6031b)
-* 💻 GitHub: [https://github.com/athish2005](https://github.com/athish2005)
+* 💼 LinkedIn: https://www.linkedin.com/in/balamurugan007  
+* 💻 GitHub: https://github.com/Balamurugan200508  
+* 🧠 LeetCode: https://leetcode.com/u/balamurugan33/
 
 ---
+
+⭐ *Actively seeking **AI / Data Science / Software Developer (Fresher)** opportunities*
