@@ -12,7 +12,7 @@
   <a href="https://github.com/athish2005">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:athishkumaranrm@gmail.com">
+  <a href="mailto:balamuruan.suresh2015@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
